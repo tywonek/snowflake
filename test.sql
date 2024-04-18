@@ -1,1 +1,1 @@
-Create database GIT_TEST;
+Create if not exists database GIT_TEST;
